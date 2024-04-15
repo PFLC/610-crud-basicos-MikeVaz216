@@ -1,7 +1,7 @@
 
 # Aplicación CRUD de PHP
 
-Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete) simple. Es una demostración básica de cómo integrar PHP con una base de datos MySQL para gestionar datos de usuarios. La aplicación permite a los usuarios agregar, ver, editar y eliminar información de usuario.
+Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete) simple. Es una demostración básica de cómo integrar PHP con una base de datos MySQL para gestionar datos de usuarios. La aplicación permite a los usuarios agregar, ver, editar y eliminar información de usuario en sus servidores mediante la combinación de HTML y PHP, podemos crear formularios de entrada, mostrar datos, actualizar registros y eliminar información de manera eficiente y segura.
 
 ## Tecnologías Utilizadas
 
